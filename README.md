@@ -3,4 +3,5 @@ Let try to learn how this piece of architecture work and do simple experiments t
 
 # Reference
 1. https://youtu.be/93E_GzvpMA0
+2. https://youtu.be/_160oMzblY8
 
